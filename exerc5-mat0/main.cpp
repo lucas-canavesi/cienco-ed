@@ -44,7 +44,7 @@ int main()
      cout << "O valor a ser pago e : R$ " << preco + reajuste;
    }
    else if (opcao == 4){
-     cout << "O valor a ser pago e: R$ " << preco + reajuste;
+     cout << "O valor a ser pago e: R$ " << preco - reajuste;
    }
 
    else {
